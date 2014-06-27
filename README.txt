@@ -34,3 +34,9 @@ Finally, I played around with different values in BRICKS_IN_BASE to make sure it
 Drawing concentric circles using some constants, including the number of concentric circles. I simplified the calling of 3 ovals using a switch statement. 
 
 Used the same principles of drawPyramids to find the central point
+
+#3) drawAcmHierarchy.java
+
+Used the same concepts of finding the central point of the window. Created the program box with label. Then, added a for loop and switch statement to iterate through creating the subclass boxes.
+
+The trickiest part was figuring out the middle of the class box to place the lable correctly in the x orientation.
