@@ -48,3 +48,7 @@ Takes two sides of a triangle (a and b) and uses the Pythagorean theorem to solv
 #5) findSmallAndLarge.java
 
 The trickiest is the guard against the SENTINEL. It needs to occur at the first entry and then consequently immediately after the next readInt is called.
+
+#6) hailstoneSequence.java
+
+This was fairly straight forward; implemented using the read-until-sentinel-pattern with a changeable sentinel
