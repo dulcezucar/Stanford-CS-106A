@@ -44,3 +44,7 @@ The trickiest part was figuring out the middle of the class box to place the lab
 #4) calculatePythagoreanTheorem.java
 
 Takes two sides of a triangle (a and b) and uses the Pythagorean theorem to solve for c. There is no need for sentinel since readDouble has error checking built in. That is, if the user enters a non-numerical value, the console will prompt them to re-enter the appropriate value.
+
+#5) findSmallAndLarge.java
+
+The trickiest is the guard against the SENTINEL. It needs to occur at the first entry and then consequently immediately after the next readInt is called.
