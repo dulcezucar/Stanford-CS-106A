@@ -40,3 +40,7 @@ Used the same principles of drawPyramids to find the central point
 Used the same concepts of finding the central point of the window. Created the program box with label. Then, added a for loop and switch statement to iterate through creating the subclass boxes.
 
 The trickiest part was figuring out the middle of the class box to place the lable correctly in the x orientation.
+
+#4) calculatePythagoreanTheorem.java
+
+Takes two sides of a triangle (a and b) and uses the Pythagorean theorem to solve for c. There is no need for sentinel since readDouble has error checking built in. That is, if the user enters a non-numerical value, the console will prompt them to re-enter the appropriate value.
