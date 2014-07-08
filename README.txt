@@ -52,3 +52,16 @@ The trickiest is the guard against the SENTINEL. It needs to occur at the first 
 #6) hailstoneSequence.java
 
 This was fairly straight forward; implemented using the read-until-sentinel-pattern with a changeable sentinel
+
+----------------------------------------------
+Problem Set # 2
+
+1. FibonacciSequencer.java
+
+I had a harder time than I'd care to admit with this one at first. I suddenly realized my issue: I needed a temp variable to hold the "previous" value to get the value of the next term. 
+
+2. DrawRobotFace.java
+
+This was fairly straight forward. I computed the locations of each element (head, eyes, mouth) based on a center point x and y value. I broke it out into methods of drawHead, drawEyes, and drawMouth.
+
+I did an "l" and "r" to represent "left" and "right" eyes when it came to draw the eyes.
